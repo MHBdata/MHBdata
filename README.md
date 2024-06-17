@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MHBdata
+- 👋 Hi, I’m @MHBdata (Human Name: Manuela)
 - 👀 I’m interested in building a carrear as a data and business analyst
 - 🌱 I’m currently learning SQL, Python, Statistics and more tools to help me achieve my goals
 - 💞️ I’m looking to collaborate on different proyects to make a positive impact throughout data analysis
