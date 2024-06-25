@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MHBdata (Human Name: Manuela)
+- 👋 Hi, I’m @MHBdata (Human Name: Manuela Herrera Bustos)
 - 👀 I’m interested in building a carrear as a data and business analyst
-- 🌱 I’m currently learning SQL, Python, Statistics and more tools to help me achieve my goals
-- 💞️ I’m looking to collaborate on different proyects to make a positive impact throughout data analysis
+- 🌱 I’m currently learning SQL, Power BI, Python, Statistics and more tools to help me achieve my goals
+- 💞️ I’m looking to collaborate on different projects to make a positive impact throughout data analysis
 - 📫 How to reach me: manu_herrerab@outlook.com or through my LinkedIn profile https://www.linkedin.com/in/manuela-herrera-bustos/
 - ⚡ Fun fact: Athough I'm originally from Argentina, I speak Japanese and love spicy food.
 
