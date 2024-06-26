@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MHBdata (Human Name: Manuela Herrera Bustos)
+- 👋 Hi, I’m Manuela!
 - 👀 I’m interested in building a career as a data and business analyst
 - 🌱 I’m currently learning SQL, Power BI, Python, Statistics and more tools to help me achieve my goals
 - 💞️ I’m looking to collaborate on different projects to make a positive impact throughout data analysis
